@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "397204010510",
+    "project_id": "ams-employees",
+    "storage_bucket": "ams-employees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397204010510:android:461b8036dbcfd30c702e5f",
+        "android_client_info": {
+          "package_name": "com.example.ams_employees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397204010510-nmn79l84lj94bk4usft3a3hl1rcdg8ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB03kXcJNf-4eXw99JxmnUCKmIx0VrzThM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397204010510-nmn79l84lj94bk4usft3a3hl1rcdg8ur.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397204010510-7bdtlidb1gvohbeddlbdlv8cfhdcu5nt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whiteboxAms"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

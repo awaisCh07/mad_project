@@ -1,0 +1,52 @@
+name: ams_employees
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.7.1
+  form_field_validator: ^1.1.0
+  firebase_core: ^2.15.1
+  cloud_firestore: ^4.8.4
+  google_sign_in: ^6.1.4
+  syncfusion_flutter_datepicker: ^22.2.7
+  percent_indicator: ^4.0.1
+  number_paginator: ^0.3.2
+  pager: ^0.0.6
+  http: ^1.1.0
+  loading_indicator: ^3.1.1
+  table_calendar: ^3.0.9
+  intl: ^0.18.1
+  shared_preferences: ^2.2.0
+  flutter_secure_storage: ^8.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+          weight: 700
